@@ -1,4 +1,4 @@
-# RADIA — COVID-19 Chest X-ray Classification Website
+# HAMA— COVID-19 Chest X-ray Classification Website
 
 A complete Flask website for your uploaded notebook's trained **StandardScaler → PCA → BaggingClassifier(SVC)** pipeline. It includes a custom dark radiology-lab frontend, image preview, drag-and-drop upload, loading state, error handling, and prediction output.
 
